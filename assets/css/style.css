@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+header{
+    height: 10vh;
+    background-image: url(../images/design1_image1.jpg);
+}
+header>h1{
+    display: inline-block
+    font-size: 2rem;
+}
+#logo{
+    height:100px
+}
+nav{
+    height: 10vh;
+}
+main{
+    height: 70vh;
+}
+footer{
+    height: 10vh;
+}
